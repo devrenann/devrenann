@@ -43,6 +43,6 @@ Atualmente curso **Bacharelado em Engenharia de Software** e venho aplicando tec
 
 ## 📫 Como falar comigo
 
-* ✉️ Email: [devrenann@gmail.com](mailto: devrenann@gmail.com)
+* ✉️ Email: [devrenann@gmail.com](mailto:devrenann@gmail.com)
 
 
